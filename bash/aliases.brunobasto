@@ -1,0 +1,16 @@
+#
+# Portal
+#
+alias bundles='cd $BUNDLES'
+alias portal='cd $GIT_HOME/liferay-portal'
+alias alloy='cd $GIT_HOME/alloy-ui'
+
+#
+# Other
+#
+alias gitpr="source /Volumes/liferay/git/git-tools/git-pull-request/git-pull-request.sh"
+
+#
+# Util
+#
+alias jversion="~/dotfiles/bash/util/jversion.sh"
